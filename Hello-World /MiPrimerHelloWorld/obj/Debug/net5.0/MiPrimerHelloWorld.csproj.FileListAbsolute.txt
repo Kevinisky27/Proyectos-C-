@@ -1,0 +1,15 @@
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/bin/Debug/net5.0/MiPrimerHelloWorld.deps.json
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/bin/Debug/net5.0/MiPrimerHelloWorld.runtimeconfig.json
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/bin/Debug/net5.0/MiPrimerHelloWorld.runtimeconfig.dev.json
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/bin/Debug/net5.0/MiPrimerHelloWorld.dll
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/bin/Debug/net5.0/ref/MiPrimerHelloWorld.dll
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/bin/Debug/net5.0/MiPrimerHelloWorld.pdb
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/obj/Debug/net5.0/MiPrimerHelloWorld.csprojAssemblyReference.cache
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/obj/Debug/net5.0/MiPrimerHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/obj/Debug/net5.0/MiPrimerHelloWorld.AssemblyInfoInputs.cache
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/obj/Debug/net5.0/MiPrimerHelloWorld.AssemblyInfo.cs
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/obj/Debug/net5.0/MiPrimerHelloWorld.csproj.CoreCompileInputs.cache
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/obj/Debug/net5.0/MiPrimerHelloWorld.dll
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/obj/Debug/net5.0/ref/MiPrimerHelloWorld.dll
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/obj/Debug/net5.0/MiPrimerHelloWorld.pdb
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Hello-World /MiPrimerHelloWorld/obj/Debug/net5.0/MiPrimerHelloWorld.genruntimeconfig.cache
