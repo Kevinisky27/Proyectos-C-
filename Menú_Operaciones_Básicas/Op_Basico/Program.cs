@@ -11,9 +11,6 @@ namespace Op_Basico
             double Numero1; 
             double Numero2; 
 
-            
-
-
             // Solicitud a la peticion de nombre del Usuario
             Console.WriteLine("Favor escribe tu nombre completo: ");
             NombreUsuario = Console.ReadLine();
@@ -30,7 +27,6 @@ namespace Op_Basico
             var Resta = Numero1 - Numero2; 
             var Multiplicacion = Numero1 * Numero2; 
             var Division = Numero1 / Numero2;
-
 
             // Listado de operaciones para el usuario
             Console.WriteLine("\n 1.- Suma \n 2.- Resta \n 3.- Multiplicación \n 4. División \n 5.- Todas las operaciones \n 6.- Salir");
@@ -77,9 +73,17 @@ namespace Op_Basico
                 // Cuarto caso para validar la DIVISION     
                 case 4: 
                     Console.WriteLine("\n ----- DIVISIÓN -----"); 
-                    Console.WriteLine("   Perfecto " + NombreUsuario + "\n La división de las dos cantidades digitadas es: " + Division);
 
+                    if (Numero1 == 0){
+                        Console.WriteLine("Lo sentimos 0 no se puede dividir dentro de " + Numero2);
+                    } else if (Numero2 == 0){
+                        Console.WriteLine("Lo Sentimos 0 no se puede dividir dentro de " + Numero1); 
+                    }else{
+                        Console.WriteLine("   Perfecto " + NombreUsuario + "\n La división de las dos cantidades digitadas es: " + Division);
+                    }
                     break;
+
+                    
                 // Sexta opcion, la cual despliega todas las opciones
                 case 5: 
                     Console.WriteLine("\n ----- TODAS LAS OPCIONES -----");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Menú_Operaciones_Básicas/Op_Basico/Op_Basico.csproj": {}
+    "/Users/kevinalexanderlimarecinos/Documents/2021/UMG/SegundoAño-TercerSemestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Menú_Operaciones_Básicas/Op_Basico/Op_Basico.csproj": {}
   },
   "projects": {
-    "/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Menú_Operaciones_Básicas/Op_Basico/Op_Basico.csproj": {
+    "/Users/kevinalexanderlimarecinos/Documents/2021/UMG/SegundoAño-TercerSemestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Menú_Operaciones_Básicas/Op_Basico/Op_Basico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Menú_Operaciones_Básicas/Op_Basico/Op_Basico.csproj",
+        "projectUniqueName": "/Users/kevinalexanderlimarecinos/Documents/2021/UMG/SegundoAño-TercerSemestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Menú_Operaciones_Básicas/Op_Basico/Op_Basico.csproj",
         "projectName": "Op_Basico",
-        "projectPath": "/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Menú_Operaciones_Básicas/Op_Basico/Op_Basico.csproj",
+        "projectPath": "/Users/kevinalexanderlimarecinos/Documents/2021/UMG/SegundoAño-TercerSemestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Menú_Operaciones_Básicas/Op_Basico/Op_Basico.csproj",
         "packagesPath": "/Users/kevinalexanderlimarecinos/.nuget/packages/",
-        "outputPath": "/Users/kevinalexanderlimarecinos/Documents/2021/UMG/PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Menú_Operaciones_Básicas/Op_Basico/obj/",
+        "outputPath": "/Users/kevinalexanderlimarecinos/Documents/2021/UMG/SegundoAño-TercerSemestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Menú_Operaciones_Básicas/Op_Basico/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kevinalexanderlimarecinos/.nuget/NuGet/NuGet.Config"
