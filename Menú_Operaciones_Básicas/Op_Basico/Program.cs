@@ -83,7 +83,7 @@ namespace Op_Basico
                     }
                     break;
 
-                    
+
                 // Sexta opcion, la cual despliega todas las opciones
                 case 5: 
                     Console.WriteLine("\n ----- TODAS LAS OPCIONES -----");
@@ -109,7 +109,7 @@ namespace Op_Basico
                 default: 
                     Console.WriteLine("\n ----- ERROR DE OPERACIÓN -----"); 
                     // Mensaje de error personalisado con la variable de NombreUsuario, la cual fue solicitada al inicio de la ejecucion del programa
-                    Console.WriteLine("     Estimado usiario: " + NombreUsuario + "\n La peticion solicitada no se encuentra dentro de nuestras operaciones. \n \n Le solicitamos volver a correr el software.");
+                    Console.WriteLine("     Estimado usiario: " + NombreUsuario + "\n La peticion solicitada no se encuentra.");
                     break;
             }
         }
