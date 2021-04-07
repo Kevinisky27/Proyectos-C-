@@ -1,0 +1,15 @@
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/bin/Debug/net5.0/Lista_Estudiantes.deps.json
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/bin/Debug/net5.0/Lista_Estudiantes.runtimeconfig.json
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/bin/Debug/net5.0/Lista_Estudiantes.runtimeconfig.dev.json
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/bin/Debug/net5.0/Lista_Estudiantes.dll
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/bin/Debug/net5.0/ref/Lista_Estudiantes.dll
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/bin/Debug/net5.0/Lista_Estudiantes.pdb
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/obj/Debug/net5.0/Lista_Estudiantes.csprojAssemblyReference.cache
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/obj/Debug/net5.0/Lista_Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/obj/Debug/net5.0/Lista_Estudiantes.AssemblyInfoInputs.cache
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/obj/Debug/net5.0/Lista_Estudiantes.AssemblyInfo.cs
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/obj/Debug/net5.0/Lista_Estudiantes.csproj.CoreCompileInputs.cache
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/obj/Debug/net5.0/Lista_Estudiantes.dll
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/obj/Debug/net5.0/ref/Lista_Estudiantes.dll
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/obj/Debug/net5.0/Lista_Estudiantes.pdb
+/Users/kevinalexanderlimarecinos/Documents/2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Proyectos & Tareas del curso /Proyectos_C#/Lista_Estudiantes/obj/Debug/net5.0/Lista_Estudiantes.genruntimeconfig.cache
